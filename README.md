@@ -1,7 +1,11 @@
 # The-Ultimate-ChatGPT-Guide-with-React-Native---Develop-Mobile-Apps
 The Ultimate ChatGPT Guide with React Native - Develop Mobile Apps, published by Packt
 
-Download Instructions:
+To properly download code files from a Git LFS-updated repository without corrupting the files, please follow these straightforward steps:
 
-To ensure a successful download, we recommend downloading the two zip files individually instead of all at once. Some of the files are large in size, which can cause errors if downloaded simultaneously.
-Please download the first zip file, wait for it to complete, and then download the second zip file. This will help prevent any potential errors and ensure a smooth download process.
+Download and install the GitHub Desktop app from this link: https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs. Open the application and sign in with your GitHub credentials.
+In the GitHub Desktop app, navigate to "File" -> "Clone Repository."
+In the dialog that appears, paste the URL of the repository you wish to clone into the "URL" field. Below, choose a location on your local drive where you'd like to store the repository files and click "Clone."
+After cloning completes, a confirmation message will appear. Click "Show in Explorer" (or "Show in Finder" for Mac) to open the folder containing the cloned repository on your computer.
+Inside this local repository folder, you should find the code files. If the files are compressed (zipped), you may use a tool like 7Zip (downloadable from https://www.7-zip.org/) to extract them.
+This method ensures you get an exact copy of the repository, including all files handled by Git LFS, ready for use on your system.
